@@ -1,6 +1,12 @@
 # XXVner
-Corpora and Code for XXVner
+#### Models, Corpora and Code for XXVner:
+XXVner-XLM F1 score: 0.8353 (trained on all corpora excluding 'daily, 'msra' & 'weibo')
 
+XXVner-FM  F1 score: 0.7299 (trained on all included copora)
+
+Running the .ipynb file in a Jupyter Notebook Environment is recommended!
+
+#### Sources for all included corpora:
 
 https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC 
 Leon Derczynski, Kalina Bontcheva, and Ian Roberts: Broad Twitter Corpus: A Diverse Named Entity Recognition Resource. Proceedings of COLING, Osaka, Japan, 2016, pp. 1169-1179.
