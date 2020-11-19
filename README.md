@@ -8,6 +8,8 @@ Running the .ipynb file in a Jupyter Notebook Environment is recommended!
 
 #### Sources for all included corpora:
 
+ConLL2003 corpora omitted due to licensing issues, but it might be easy to find.
+
 https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC 
 Leon Derczynski, Kalina Bontcheva, and Ian Roberts: Broad Twitter Corpus: A Diverse Named Entity Recognition Resource. Proceedings of COLING, Osaka, Japan, 2016, pp. 1169-1179.
 
@@ -16,7 +18,6 @@ Erik F. Tjong Kim Sang: Introduction to the CoNLL-2002 Shared Task: Language-Ind
 
 https://www.clips.uantwerpen.be/conll2003/ner/ 
 Erik F. Tjong Kim Sang and Fien De Meulder: Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition. Proceedings of CoNLL-2003, Edmonton, Canada, 2003, pp. 142-147.
-Corpus omitted due to licensing issues, but it might be easy to find.
 
 https://danlp.alexandra.dk/304bd159d5de/datasets/ddt.zip
 Hvingelby et al.: DaNE: A Named Entity Resource for Danish. Proceedings of the 12th Conference on Language Resources and Evaluation, Marseille, France, 2020, pp. 4597–4604.
