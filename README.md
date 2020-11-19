@@ -1,12 +1,15 @@
 # XXVner
+
 #### Models, corpora and sources for XXVner:
+
 [XXVner-XLM](https://drive.google.com/file/d/10txivO02tKV7kXT6ja9VnGfgRhZG10nD) F1 score: 0.8353 (trained on all corpora excluding 'daily, 'msra' & 'weibo')
 
 [XXVner-FM](https://drive.google.com/file/d/1ViwtJVWgTrBNrojNc9VKd3GplvYK7vT1)  F1 score: 0.7299 (trained on all included copora)
 
-Running the .ipynb file in a Jupyter Notebook Environment is recommended.
+Running the .ipynb file in a Jupyter Notebook Environment with a GPU is recommended.
 
-#### Sources for all included corpora:
+
+#### Citations for all included corpora:
 
 ConLL2003 corpora omitted due to licensing issues, but they might be easy to find.
 
