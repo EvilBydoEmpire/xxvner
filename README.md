@@ -8,7 +8,7 @@ Running the .ipynb file in a Jupyter Notebook Environment is recommended!
 
 #### Sources for all included corpora:
 
-ConLL2003 corpora omitted due to licensing issues, but it might be easy to find.
+ConLL2003 corpora omitted due to licensing issues, but they might be easy to find.
 
 https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC 
 Leon Derczynski, Kalina Bontcheva, and Ian Roberts: Broad Twitter Corpus: A Diverse Named Entity Recognition Resource. Proceedings of COLING, Osaka, Japan, 2016, pp. 1169-1179.
