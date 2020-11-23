@@ -1,7 +1,7 @@
 # XXVner
 
 
-XXVner is a large NER model capable of labelling *PER*, *LOC*, *ORG* and *MISC* named entities in 17 languages: English, German, Danish, Dutch, Afrikaans, Norwergian (Bokmal & Nynorsk), Swedish, Finnish, Hungarian, Estonian, Basque, Italian, Spanish, Romanian, Urdu, Persian and Chinese (Mandarin).
+XXVner is a large NER model capable of labelling *PER*, *LOC*, *ORG* and *MISC* named entities in 17 languages: English, German, Danish, Dutch, Afrikaans, Norwergian (Bokmal & Nynorsk), Swedish, Finnish, Hungarian, Estonian, Basque, Italian, Spanish, Romanian, Urdu, Persian and Chinese (Mandarin, XXVner-FM only).
 
 To reproduce these results, corpora and sources are provided. Running the .ipynb file in a Jupyter Notebook Environment for training with a GPU is recommended.
 
@@ -11,13 +11,13 @@ To reproduce these results, corpora and sources are provided. Running the .ipynb
 
 [XXVner-XLM](https://drive.google.com/file/d/10txivO02tKV7kXT6ja9VnGfgRhZG10nD) 
 
-F1 score: 0.8353 - trained on all listed corpora excluding 'daily, 'msra' & 'weibo' with RoBERTa-XLM (all layers) Transformer embeddings
+F1 score: 0.8353 - excluding Chinese 'daily, 'msra' & 'weibo' corpora, trained with RoBERTa-XLM embeddings
 
 &nbsp;
 
 [XXVner-FM](https://drive.google.com/file/d/1ViwtJVWgTrBNrojNc9VKd3GplvYK7vT1)  
 
-F1 score: 0.7299 - trained on all included copora with Flair 'multi-forward' & 'multi-backward' embeddings
+F1 score: 0.7299 - trained  with Flair's 'multi-forward' & 'multi-backward' embeddings
 
 &nbsp;
 
