@@ -1,6 +1,5 @@
 # XXVner
 
-#### Models, corpora and sources for XXVner:
 
 XXVner is a large NER model capable of labelling *PER*, *LOC*, *ORG* and *MISC* named entities in 17 languages: English, German, Danish, Dutch, Afrikaans, Norwergian (Bokmal & Nynorsk), Swedish, Finnish, Hungarian, Estonian, Basque, Italian, Spanish, Romanian, Urdu, Persian and Chinese (Mandarin).
 
@@ -17,11 +16,10 @@ To reproduce these results, running the .ipynb file in a Jupyter Notebook Enviro
  
 &nbsp;
 
-#### Citations for all included corpora:
+**Citations:**
 
-ConLL2003 corpora omitted due to licensing issues, but they might be easy to find.
+*ConLL2003 corpora omitted due to licensing issues, but they might be easy to find.*
  
-&nbsp;
  
 https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC 
 
