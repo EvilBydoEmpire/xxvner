@@ -1,4 +1,4 @@
-# XXVner
+# **XXVner**
 
 
 XXVner is a large NER model capable of labelling *PER*, *LOC*, *ORG* and *MISC* named entities in 17 languages: English, German, Danish, Dutch, Afrikaans, Norwergian (Bokmal & Nynorsk), Swedish, Finnish, Hungarian, Estonian, Basque, Italian, Spanish, Romanian, Urdu, Persian and Chinese (Mandarin, XXVner-FM only).
@@ -7,7 +7,7 @@ To reproduce these results, corpora and sources are provided. Running the .ipynb
 
 &nbsp;
 
-**Models**
+### **Models**
 
 [XXVner-XLM](https://drive.google.com/file/d/10txivO02tKV7kXT6ja9VnGfgRhZG10nD) 
 
@@ -21,7 +21,7 @@ F1 score: 0.7299 - trained  with Flair's 'multi-forward' & 'multi-backward' embe
 
 &nbsp;
 
-**Citations**
+### **Citations**
 
 *ConLL2003 corpora omitted due to licensing issues, might be easy to find.*
  
