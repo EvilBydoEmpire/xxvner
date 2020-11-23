@@ -5,22 +5,28 @@ XXVner is a large NER model capable of labelling *PER*, *LOC*, *ORG* and *MISC* 
 
 &nbsp;
 
-[XXVner-XLM](https://drive.google.com/file/d/10txivO02tKV7kXT6ja9VnGfgRhZG10nD) F1 score: 0.8353 (trained on all listed corpora excluding 'daily, 'msra' & 'weibo' with RoBERTa-XLM (all layers) Transformer embeddings)
+[XXVner-XLM](https://drive.google.com/file/d/10txivO02tKV7kXT6ja9VnGfgRhZG10nD) 
 
-[XXVner-FM](https://drive.google.com/file/d/1ViwtJVWgTrBNrojNc9VKd3GplvYK7vT1)  F1 score: 0.7299 (trained on all included copora with Flair 'multi-forward' & 'multi-backward' embeddings)
+F1 score: 0.8353 - trained on all listed corpora excluding 'daily, 'msra' & 'weibo' with RoBERTa-XLM (all layers) Transformer embeddings
+
+&nbsp;
+
+[XXVner-FM](https://drive.google.com/file/d/1ViwtJVWgTrBNrojNc9VKd3GplvYK7vT1)  
+
+F1 score: 0.7299 - trained on all included copora with Flair 'multi-forward' & 'multi-backward' embeddings
 
 To reproduce these results, running the .ipynb file in a Jupyter Notebook Environment for training with a GPU is recommended.
 
 &nbsp;
 
- 
 &nbsp;
 
-**Citations:**
+**Citations**
 
 *ConLL2003 corpora omitted due to licensing issues, but they might be easy to find.*
  
- 
+&nbsp;
+
 https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC 
 
 Leon Derczynski, Kalina Bontcheva, and Ian Roberts: Broad Twitter Corpus: A Diverse Named Entity Recognition Resource. Proceedings of COLING, Osaka, Japan, 2016, pp. 1169-1179.
