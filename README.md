@@ -21,8 +21,6 @@ F1 score: 0.7299 - trained  with Flair's 'multi-forward' & 'multi-backward' embe
 
 &nbsp;
 
-&nbsp;
-
 **Citations**
 
 *ConLL2003 corpora omitted due to licensing issues, but they might be easy to find.*
