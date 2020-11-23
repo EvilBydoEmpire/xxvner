@@ -3,7 +3,7 @@
 
 XXVner is a large NER model capable of labelling *PER*, *LOC*, *ORG* and *MISC* named entities in 17 languages: English, German, Danish, Dutch, Afrikaans, Norwergian (Bokmal & Nynorsk), Swedish, Finnish, Hungarian, Estonian, Basque, Italian, Spanish, Romanian, Urdu, Persian and Chinese (Mandarin, XXVner-FM only).
 
-To reproduce these results, corpora and sources are provided. Running the .ipynb file in a Jupyter Notebook Environment for training with a GPU is recommended.
+To reproduce these results, corpora and sources are provided. Running the .ipynb file in a Jupyter Notebook Environment for training with a GPU is recommended. To use the linked models for prediction, consult the Flair [documentation](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_2_TAGGING.md).
 
 &nbsp;
 
